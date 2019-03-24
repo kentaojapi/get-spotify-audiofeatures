@@ -1,3 +1,0 @@
-acousticness,analysis_url,danceability,duration_ms,energy,id,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,track_href,type,uri,valence,name
-0.00548,https://api.spotify.com/v1/audio-analysis/2DApgAEi6xXIXHdx5kUaOf,0.634,200000,0.65,2DApgAEi6xXIXHdx5kUaOf,0.0,0,0.11,-7.214,0,0.0325,133.927,4,https://api.spotify.com/v1/tracks/2DApgAEi6xXIXHdx5kUaOf,audio_features,spotify:track:2DApgAEi6xXIXHdx5kUaOf,0.433,Long Way Down (RIFF Remix)
-0.00911,https://api.spotify.com/v1/audio-analysis/3NGk4KDpAXWgk2ar9oBUy8,0.526,193920,0.541,3NGk4KDpAXWgk2ar9oBUy8,0.0629,0,0.113,-9.98,0,0.0336,125.094,4,https://api.spotify.com/v1/tracks/3NGk4KDpAXWgk2ar9oBUy8,audio_features,spotify:track:3NGk4KDpAXWgk2ar9oBUy8,0.263,Long Way Down
